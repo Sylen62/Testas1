@@ -11,5 +11,5 @@ $ npm i
 
 ## Paleidimas
 
-- Windows: $ npm run start-win
-- Unix/Mac: $ npm run start-unix
+- Windows: ```$ npm run start-win```
+- Unix/Mac: ```$ npm run start-unix```

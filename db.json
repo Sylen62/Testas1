@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "id": "stringas",
+      "title": "kitas",
+      "price": {
+        "daiktas": 123
+      }
+    }
+  ]
+}
